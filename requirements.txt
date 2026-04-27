@@ -1,0 +1,4 @@
+chandra-ocr
+pdf2image
+PyPDF2
+Pillow
