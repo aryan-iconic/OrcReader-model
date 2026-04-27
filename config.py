@@ -2,5 +2,5 @@ import os
 from pathlib import Path
 
 class Config:
-    file_path = r"D:\aiml\test2\Gesture\OCR_Project\input\\"
+    file_path = r"path/to/your/file"
 config = Config()
